@@ -1,0 +1,25 @@
+.main-title {
+ padding-top: 20vh;
+ text-align: center;
+ font-size: 5vw;
+}
+
+.main-sub-title {
+ text-align: center;
+ font-size: 2vw
+}
+
+.nav {
+ float: right;
+ padding-right: 4vw
+ list-style: none;
+}
+
+.nav-button {
+ text-decoration: none;
+}
+
+.nav-link {
+ text-decoration: none;
+ colour: black;
+}
