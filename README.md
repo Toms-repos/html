@@ -1,2 +1,4 @@
-# html
-Html Written in notepad
+# The HTML Repo
+This repo has
+- HTML
+- CSS
